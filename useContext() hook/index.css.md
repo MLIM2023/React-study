@@ -1,0 +1,6 @@
+```css
+.box {
+    border: 3px solid;
+    padding: 25px;
+}
+```
